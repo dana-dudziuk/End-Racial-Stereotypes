@@ -1,0 +1,29 @@
+
+h1{
+    text-align:center;
+    font-family:Francoisone;
+    }
+    
+.arrow{
+    width:30px;
+    }
+
+p{
+    font-family:Francoisone;
+    font-weight:bold;
+    font-size:35px;
+    text-align:center;
+    }
+    
+body{
+    background-color:lavender;
+    }
+    
+button{
+     display: block;
+    margin: 0 auto;
+    width:100px;
+    }
+
+
+
